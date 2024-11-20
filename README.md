@@ -1,4 +1,4 @@
-# Hi there 👋
+# Привет 👋
 
 Меня зовут **Алексей**, я **Frontend JavaScript разработчик**.
 
@@ -39,21 +39,6 @@
 
 ---
 
-## 🌟 Проекты
-
-### 1. **[Todo App](https://github.com/username/todo-app)**  
-  **Описание:** Минималистичное приложение для управления задачами.  
-  **Технологии:** React, TypeScript, SCSS  
-  **Ключевая функция:** Фильтрация задач по приоритетам и статусу.
-
-### 2. **[E-commerce SPA](https://github.com/username/ecommerce-spa)**  
-  **Описание:** Интернет-магазин с каталогом товаров и корзиной покупок.  
-  **Технологии:** React, Redux Toolkit, Node.js  
-  **Ключевая функция:** Интеграция с REST API и управление состоянием.
-
----
-
 ## 📫 Связь со мной
 
-- ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) — [@wiseprog](https://t.me/wiseprog)  
-- ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) — **wiseprg**
+- ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) — [@Lepehaa)  
